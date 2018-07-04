@@ -1,8 +1,8 @@
-import AppActionTypes from './ActionTypes';
+import AppActionTypes from '../ActionTypes';
 import AppDispatcher from "../Dispatcher";
 
 const ColorAppActions = {
-	function changeColor(colorName) {
+	changeColor(colorName) {
 		AppDispatcher.dispatch({
 			type: AppActionTypes.CHANGE_COLOR,
         	value: colorName
