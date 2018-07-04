@@ -1,5 +1,6 @@
 # reactjs-flux-simple-example
-This is simple usage of React and Flux
+This is simple usage of React and Flux. Leraning about unidirectional data flow.
+<img src="./docs/img/flux-diagram-white-background.png" style="width: 100%;" />
 
 ## Reference
 * [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
